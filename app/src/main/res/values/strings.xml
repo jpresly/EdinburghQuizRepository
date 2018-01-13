@@ -1,0 +1,63 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">Edinburgh Quiz</string>
+
+    //Q1, Edinburgh Public Transport yes or no
+    <string name="question_one">Edinburgh Public Transport System includes (1 point for each correct answer):</string>
+    //Correct answer 1/1, transport Edinburgh
+    <string name="answer1_transport" translatable="false">Bus</string>
+    //Correct answer 2/1, transport Edinburgh
+    <string name="answer2_transport" translatable="false">Tram</string>
+    //Incorrect answer 3/1, not transport Edinburgh
+    <string name="answer3_transport" translatable="false">Metro Subway</string>
+    //Correct answer 4/1, transport Edinburgh
+    <string name="answer4_transport" translatable="false">Black Cab</string>
+
+    //Q2 and answers
+    <string name="question_two">How many bridges are there over the Firth of Forth?</string>
+    //Incorrect answer 1, 1
+    <string name="answer1">1</string>
+    //Incorrect answer 2, 2
+    <string name="answer2">2</string>
+    //Correct answer 3, 3
+    <string name="answer3">3</string>
+
+    //Q3 and answers
+    <string name="question_three">Is Edinburgh the capital of Scotland?</string>
+    //Correct asnwer YES
+    <string name="yes">YES</string>
+    //Incorrect answer NO
+    <string name="no">NO, it is Glasgow</string>
+
+    //Q4 and answers
+    <string name="question_four">What is Haggis?</string>
+    //Incorrect answer 1, wild animal
+    <string name="wild_animal">It is a wild animal that lives up the highlands</string>
+    //Correct answer 2, delicacy
+    <string name="delicacy">It is Scottish delicacy</string>
+    //Incorrect answer 3, national dress
+    <string name="national_dress">It is Scottish national dress</string>
+
+    //Q5 and answers
+    <string name="question_five">What do we like with our Fish and Chips?</string>
+    //Incorrect answer 1, salt vinegar
+    <string name="salt_vinegar">Salt and Vinegar</string>
+    //Correct answer 2, salt sauce
+    <string name="salt_sauce">Salt and Sauce</string>
+    //Incorrect answer 3, mayonnaise
+    <string name="mayonnaise">Mayonnaise</string>
+    //Incorrect asnwer 4, ketchup
+    <string name="ketchup">Tomato Ketchup</string>
+
+    <string name="score_button">\u0020 View Score</string>
+
+    //toast for top point
+    <string name="true_edinburgher">: Well done! You are a true Edinburgher. You got \u0020</string>
+    //part2 of toast message
+    <string name="out_of_points">\u0020out of 8 points.</string>
+    //toast for a low point
+    <string name="not_bad">: Not bad, try again! You got \u0020</string>
+    //toast for zero point
+    <string name="not_trying">: Really? Are you even trying? You got \u0020</string>
+
+
+</resources>
